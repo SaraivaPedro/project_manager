@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Pastas geradas pelo PyInstaller
+build/
+dist/
+
+# Arquivo de configuração do PyInstaller
+*.spec
