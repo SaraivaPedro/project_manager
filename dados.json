@@ -1,0 +1,79 @@
+{
+    "versao": 2,
+    "secoes": {
+        "secao_dfbc4837": {
+            "nome": "Tarefas Do Trabalho",
+            "projetos": {}
+        },
+        "projetos_pessoais": {
+            "nome": "Projetos pessoais",
+            "projetos": {
+                "MELHORAR SCHEDULA": {
+                    "status": "PENDENTE",
+                    "historico": [
+                        {
+                            "status": "PENDENTE",
+                            "data": "2026-09-18T21:21:23.105851",
+                            "secao": "projetos_pessoais",
+                            "projeto": "MELHORAR SCHEDULA"
+                        }
+                    ],
+                    "prazo": null,
+                    "alerta_dispensado_para": null
+                },
+                "MELHORAR APP": {
+                    "status": "CONCLUÍDO",
+                    "historico": [
+                        {
+                            "status": "EM ANDAMENTO",
+                            "data": "2026-09-18T21:21:58.745604",
+                            "secao": "projetos_pessoais",
+                            "projeto": "MELHORAR APP"
+                        },
+                        {
+                            "status": "CONCLUÍDO",
+                            "data": "2026-09-18T21:22:19.312978",
+                            "secao": "projetos_pessoais",
+                            "projeto": "MELHORAR APP"
+                        },
+                        {
+                            "status": "PENDENTE",
+                            "data": "2026-09-18T21:37:27.260945",
+                            "secao": "projetos_pessoais",
+                            "projeto": "MELHORAR APP"
+                        },
+                        {
+                            "status": "CONCLUÍDO",
+                            "data": "2026-09-18T21:37:31.084970",
+                            "secao": "projetos_pessoais",
+                            "projeto": "MELHORAR APP"
+                        }
+                    ],
+                    "prazo": "2026-09-21",
+                    "alerta_dispensado_para": null
+                },
+                "PORTFOLIO": {
+                    "status": "PENDENTE",
+                    "historico": [
+                        {
+                            "status": "PENDENTE",
+                            "data": "2026-09-18T21:38:19.820395",
+                            "secao": "projetos_pessoais",
+                            "projeto": "PORTFOLIO"
+                        }
+                    ],
+                    "prazo": null,
+                    "alerta_dispensado_para": null
+                }
+            }
+        },
+        "tarefas_academicas": {
+            "nome": "Tarefas acadêmicas",
+            "projetos": {}
+        },
+        "tarefas_domiciliares": {
+            "nome": "Tarefas domiciliares",
+            "projetos": {}
+        }
+    }
+}
